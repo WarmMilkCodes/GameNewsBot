@@ -1,6 +1,6 @@
-# GameNewsBot - A discord bot
+# BattlefieldNewsBot - Discord Bot
 
-This discord bot use steam news api to keep your discord channel updated with game news. The bot allows you to register the Steam app ids of your favorite games, checks periodically for games news and posts them on your Discord channel.
+This discord bot use steam news api to keep your discord channel updated with Battlefield 2042 news. The bot checks periodically for game news and posts them on your Discord channel.
 
 
 ### Dependencies
